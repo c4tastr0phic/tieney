@@ -1,0 +1,1 @@
+(&mut Storage<'_, Position, FetchMut<'_, MaskedStorage<Position>>>, &mut Storage<'_, Renderable, FetchMut<'_, MaskedStorage<Renderable>>>, &mut Storage<'_, Smoke, FetchMut<'_, MaskedStorage<Smoke>>>, &mut specs::Read<'_, EntitiesRes>)

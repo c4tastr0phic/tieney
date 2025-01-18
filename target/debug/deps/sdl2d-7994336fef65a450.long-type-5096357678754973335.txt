@@ -1,0 +1,1 @@
+(&mut Storage<'a, Position, FetchMut<'a, MaskedStorage<Position>>>, &mut Storage<'a, Renderable, FetchMut<'a, MaskedStorage<Renderable>>>, &Storage<'a, Smoke, FetchMut<'a, MaskedStorage<Smoke>>>, {float})

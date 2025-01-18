@@ -1,0 +1,14 @@
+/home/rat/Projects/Programming/Rust/SDL/sdl2d/target/debug/deps/libsdl2_sys-40c1af0a93be9aa9.rmeta: /home/rat/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.32.6/src/lib.rs /home/rat/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.32.6/src/image.rs /home/rat/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.32.6/src/ttf.rs /home/rat/Projects/Programming/Rust/SDL/sdl2d/target/debug/build/sdl2-sys-f38697c4fd3e3dce/out/sdl_bindings.rs /home/rat/Projects/Programming/Rust/SDL/sdl2d/target/debug/build/sdl2-sys-f38697c4fd3e3dce/out/sdl_image_bindings.rs /home/rat/Projects/Programming/Rust/SDL/sdl2d/target/debug/build/sdl2-sys-f38697c4fd3e3dce/out/sdl_ttf_bindings.rs
+
+/home/rat/Projects/Programming/Rust/SDL/sdl2d/target/debug/deps/libsdl2_sys-40c1af0a93be9aa9.rlib: /home/rat/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.32.6/src/lib.rs /home/rat/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.32.6/src/image.rs /home/rat/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.32.6/src/ttf.rs /home/rat/Projects/Programming/Rust/SDL/sdl2d/target/debug/build/sdl2-sys-f38697c4fd3e3dce/out/sdl_bindings.rs /home/rat/Projects/Programming/Rust/SDL/sdl2d/target/debug/build/sdl2-sys-f38697c4fd3e3dce/out/sdl_image_bindings.rs /home/rat/Projects/Programming/Rust/SDL/sdl2d/target/debug/build/sdl2-sys-f38697c4fd3e3dce/out/sdl_ttf_bindings.rs
+
+/home/rat/Projects/Programming/Rust/SDL/sdl2d/target/debug/deps/sdl2_sys-40c1af0a93be9aa9.d: /home/rat/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.32.6/src/lib.rs /home/rat/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.32.6/src/image.rs /home/rat/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.32.6/src/ttf.rs /home/rat/Projects/Programming/Rust/SDL/sdl2d/target/debug/build/sdl2-sys-f38697c4fd3e3dce/out/sdl_bindings.rs /home/rat/Projects/Programming/Rust/SDL/sdl2d/target/debug/build/sdl2-sys-f38697c4fd3e3dce/out/sdl_image_bindings.rs /home/rat/Projects/Programming/Rust/SDL/sdl2d/target/debug/build/sdl2-sys-f38697c4fd3e3dce/out/sdl_ttf_bindings.rs
+
+/home/rat/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.32.6/src/lib.rs:
+/home/rat/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.32.6/src/image.rs:
+/home/rat/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sdl2-sys-0.32.6/src/ttf.rs:
+/home/rat/Projects/Programming/Rust/SDL/sdl2d/target/debug/build/sdl2-sys-f38697c4fd3e3dce/out/sdl_bindings.rs:
+/home/rat/Projects/Programming/Rust/SDL/sdl2d/target/debug/build/sdl2-sys-f38697c4fd3e3dce/out/sdl_image_bindings.rs:
+/home/rat/Projects/Programming/Rust/SDL/sdl2d/target/debug/build/sdl2-sys-f38697c4fd3e3dce/out/sdl_ttf_bindings.rs:
+
+# env-dep:OUT_DIR=/home/rat/Projects/Programming/Rust/SDL/sdl2d/target/debug/build/sdl2-sys-f38697c4fd3e3dce/out
